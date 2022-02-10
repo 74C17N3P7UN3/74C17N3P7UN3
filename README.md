@@ -1,0 +1,5 @@
+- 👋 Hi, I’m TacitNeptune
+- 👀 I’m interested in coding programs and developing websites
+- 🌱 I’m currently learning C/Python and HTML/CSS/JS
+- 👨‍💻 I’m currently developing [InstaFetcher](https://github.com/74C17N3P7UN3/InstaFetcher) here on GitHub
+- 📫 You can reach me via *[Discord](https://discordapp.com/users/566676482106064897)*
