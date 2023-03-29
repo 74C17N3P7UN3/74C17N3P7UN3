@@ -35,12 +35,14 @@
       <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
       <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-      <img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?logo=json&logoColor=white">
+      <img alt="JSON" src="https://img.shields.io/badge/JSON-fbc02d.svg?logo=json&logoColor=black">
       <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=latex&logoColor=white">
       <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white">
       <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
+      <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black">
+      <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white">
       <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white">
       <img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white">
       <img alt="SVG" src="https://img.shields.io/badge/SVGs-FFB13B.svg?logo=svg&logoColor=black">
@@ -54,21 +56,19 @@
       <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black">
       <img alt="Font Awesome" src="https://img.shields.io/badge/Font%20Awesome-528DD7.svg?logo=fontawesome&logoColor=white">
-      <img alt="Fonts" src="https://img.shields.io/badge/Google%20Fonts-4285F4.svg?logo=googlefonts&logoColor=white">
+      <img alt="Fonts" src="https://img.shields.io/badge/Fonts-4285F4.svg?logo=googlefonts&logoColor=white">
+      <img alt="Framer" src="https://img.shields.io/badge/Framer-0055FF.svg?logo=framer&logoColor=white">
       <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF.svg?logo=mui&logoColor=white">
       <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white">
-      <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
       <img alt="PostCSS" src="https://img.shields.io/badge/PostCSS-DD3A0A.svg?logo=postcss&logoColor=white">
-      <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black">
       <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000.svg?logo=three.js&logoColor=white">
       <img alt="Vite.js" src="https://img.shields.io/badge/Vite.js-646CFF.svg?logo=vite&logoColor=white">
-      <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B.svg?logo=wordpress&logoColor=white">
    </div>
 
    <h4>🖥️ Software and Tools</h4>
    <div align="left">
       <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white">
-      <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=androidstudio&logoColor=white">
+      <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=androidstudio&logoColor=white">
       <img alt="Bitwarden" src="https://img.shields.io/badge/Bitwarden-175DDC.svg?logo=bitwarden&logoColor=white">
       <img alt="Chrome" src="https://img.shields.io/badge/Chrome-4285F4.svg?logo=googlechrome&logoColor=white">
       <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white">
@@ -76,12 +76,11 @@
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
       <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
       <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287.svg?logo=gitkraken&logoColor=white">
-      <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=googlesheets&logoColor=white">
+      <img alt="Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=googlesheets&logoColor=white">
       <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-087CFA.svg?logo=intellijidea&logoColor=white">
       <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white">
       <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?logo=kalilinux&logoColor=white">
       <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white">
-      <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E.svg?logo=prettier&logoColor=black">
       <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-1FD58F.svg?logo=pycharm&logoColor=white">
       <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954.svg?logo=spotify&logoColor=white">
       <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white">
