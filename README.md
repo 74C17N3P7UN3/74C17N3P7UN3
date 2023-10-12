@@ -100,7 +100,7 @@
    </div>
    <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
    <div align="left">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=74C17N3P7UN3&custom_title=My+GitHub's+Contributions+Graph&bg_color=20232A&color=FFFFFF&title_color=36BCF7&line=36BCF7&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&radius=4.5" height="257px">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=74C17N3P7UN3&custom_title=My+GitHub's+Contributions+Graph&bg_color=20232A&color=FFFFFF&title_color=36BCF7&line=36BCF7&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&radius=4.5" height="257px">
    </div>
 </details>
 
